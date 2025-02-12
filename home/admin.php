@@ -33,7 +33,7 @@
 
 
 
-<section class="content-header">
+<section class="content-header" >
 	<h1><a class="btn btn-danger">
 		<b>DASHBOARD |
 		Administrator</b></a>
@@ -47,7 +47,7 @@
 
 		<div class="col-lg-3 col-xs-6">
 			<!-- small box -->
-			<div class="small-box bg-primary">
+			<div class="small-box bg-primary"style= "background:rgb(252, 122, 122);">
 				<div class="inner">
 					<h2>
 						<b>
@@ -68,7 +68,7 @@
 
 		<div class="col-lg-3 col-xs-6">
 			<!-- small box -->
-			<div class="small-box bg-yellow">
+			<div class="small-box bg-yellow" style= "background:rgb(226, 67, 4);">
 				<div class="inner">
 					<h2>
 						<b>

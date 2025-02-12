@@ -44,11 +44,11 @@
 
 							<td>
 								<a href="?page=edit-paket&kode=<?php echo $data['id_paket']; ?>" title="Ubah"
-								 class="btn btn-warning">
+								 class="btn btn-warning"style= "background:rgb(4, 93, 226);">
 									<i class="glyphicon glyphicon-edit"></i>
 								</a>
 								<a href="?page=del-paket&kode=<?php echo $data['id_paket']; ?>" onclick="return confirm('Yakin Hapus Data Ini ?')"
-								 title="Hapus" class="btn btn-danger">
+								 title="Hapus" class="btn btn-danger"style= "background:rgb(226, 67, 4);">
 									<i class="glyphicon glyphicon-remove"></i>
 							</td>
 						</tr>

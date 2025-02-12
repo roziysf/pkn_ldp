@@ -127,7 +127,7 @@
 					<li class="header">OLAH DATA</li>
 
 					<li class="treeview">
-						<a href="?page=data-paket">
+						<a href="?page=data-paket"style= "color:rgb(255, 255, 255);">
 							<i class="fa fa-send"></i>
 							<span>Data Paket</span>
 							<span class="pull-right-container">
@@ -137,7 +137,7 @@
 
 
 					<li class="treeview">
-						<a href="?page=data-pelanggan">
+						<a href="?page=data-pelanggan"style= "color:rgb(255, 255, 255);">
 							<i class="fa fa-users"></i>
 							<span>Data Pelanggan</span>
 							<span class="pull-right-container">

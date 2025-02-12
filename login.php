@@ -37,10 +37,10 @@ include "inc/koneksi.php";
 
 		</div>
 		<!-- /.login-logo -->
-		<div class="login-box-body" style= "background: #ADD8E6;border-radius: 20px">
+		<div class="login-box-body" style= "background:rgb(226, 67, 4);border-radius: 20px">
 			<center>
 				<img src="dist/img/logo.png" width=200px />
-				<h4>
+				<h4 style= "color:rgb(193, 235, 7);">
 					<marquee><b>
 						APLIKASI TAGIHAN INTERNET
 					</b></marquee>
@@ -61,8 +61,8 @@ include "inc/koneksi.php";
 
 					</div>
 					<!-- /.col -->
-					<div class="box-footer" style= "background: #ADD8E6">
-						<button type="submit" class="btn btn-primary btn-block btn-flat" style= "border-radius: 10px" name="btnLogin" title="Masuk Sistem">
+					<div class="box-footer" style= "background:rgb(226, 67, 4)">
+						<button type="submit" class="btn btn-primary btn-block btn-flat" style= "color:black; background:rgb(248, 248, 252);border-radius: 10px" name="btnLogin" title="Masuk Sistem">
 							<b>M A S U K</b>
 						</button>
 					</div>

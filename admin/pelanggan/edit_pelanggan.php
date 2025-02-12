@@ -12,7 +12,7 @@
 			<!-- general form elements -->
 			<div class="box box-success">
 				<div class="box-header with-border">
-					<h3 class="box-title">Ubah Data paket</h3>
+					<h3 class="box-title">Ubah Data Pelanggan</h3>
 					<div class="box-tools pull-right">
 						<button type="button" class="btn btn-box-tool" data-widget="collapse">
 							<i class="fa fa-minus"></i>
@@ -95,8 +95,8 @@
 
 						<!-- /.box-body -->
 						<div class="box-footer">
-							<a href="?page=data-pelanggan" class="btn btn-default">Batal</a>
-							<input type="submit" name="Ubah" value="Simpan" class="btn btn-success">
+							<a href="?page=data-pelanggan" class="btn btn-default"style= "background:rgb(211, 226, 4);">Batal</a>
+							<input type="submit" name="Ubah" value="Simpan" class="btn btn-primary">
 						</div>
 				</form>
 				</div>

@@ -116,7 +116,7 @@
         ?>
 
 					<li class="treeview">
-						<a href="?page=admin">
+						<a href="?page=admin"style= "color:rgb(255, 255, 255);">
 							<i class="fa fa-dashboard"></i>
 							<span>Dashboard</span>
 							<span class="pull-right-container">
@@ -148,7 +148,7 @@
 					<li class="header">TAGIHAN & PEMBAYARAN</li>
 
 					<li class="treeview">
-						<a href="?page=buat-tagihan">
+						<a href="?page=buat-tagihan"style= "color:rgb(255, 255, 255);">
 							<i class="fa fa-edit"></i>
 							<span>Buat Tagihan</span>
 							<span class="pull-right-container">
@@ -157,7 +157,7 @@
 					</li>
 
 					<li class="treeview">
-						<a href="?page=buka-tagihan">
+						<a href="?page=buka-tagihan"style= "color:rgb(255, 255, 255);">
 							<i class="fa fa-table"></i>
 							<span>Data Tagihan</span>
 							<span class="pull-right-container">
@@ -166,7 +166,7 @@
 					</li>
 
 					<li class="treeview">
-						<a href="?page=lunas-tagihan">
+						<a href="?page=lunas-tagihan"style= "color:rgb(255, 255, 255);">
 							<i class="fa fa-money"></i>
 							<span>Pembayaran Lunas</span>
 							<span class="pull-right-container">
@@ -178,7 +178,7 @@
 					<li class="header">OTHER</li>
 
 					<li class="treeview">
-						<a href="?page=MyApp/data_pengguna">
+						<a href="?page=MyApp/data_pengguna"style= "color:rgb(255, 255, 255);">
 							<i class="fa fa-user"></i>
 							<span>Pengguna Sistem</span>
 							<span class="pull-right-container">
@@ -191,7 +191,7 @@
 					?>
 
 					<li>
-						<a href="logout.php" onclick="return confirm('Anda yakin keluar dari aplikasi ?')">
+						<a href="logout.php" onclick="return confirm('Anda yakin keluar dari aplikasi ?')"style= "color:rgb(255, 255, 255);">
 							<i class="fa fa-sign-out"></i>
 							<span>Logout</span>
 							<span class="pull-right-container"></span>

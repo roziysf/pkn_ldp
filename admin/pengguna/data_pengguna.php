@@ -49,11 +49,11 @@
 							</td>
 							<td>
 								<a href="?page=MyApp/edit_pengguna&kode=<?php echo $data['id_pengguna']; ?>"
-								 title="Ubah" class="btn btn-warning">
+								 title="Ubah" class="btn btn-warning"style= "background:rgb(4, 93, 226);">
 									<i class="glyphicon glyphicon-edit"></i>
 								</a>
 								<a href="?page=MyApp/del_pengguna&kode=<?php echo $data['id_pengguna']; ?>"
-								 onclick="return confirm('Apakah anda yakin hapus data ini ?')" title="Hapus" class="btn btn-danger">
+								 onclick="return confirm('Apakah anda yakin hapus data ini ?')" title="Hapus" class="btn btn-danger"style= "background:rgb(226, 67, 4);">
 									<i class="glyphicon glyphicon-remove"></i>
 							</td>
 						</tr>

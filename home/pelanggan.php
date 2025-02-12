@@ -31,7 +31,7 @@
 
 		<div class="col-lg-6 col-xs-6">
 			<!-- small box -->
-			<div class="small-box bg-yellow">
+			<div class="small-box bg-gray">
 				<div class="inner">
 					<h2>
 						<b>
@@ -52,7 +52,7 @@
 
 		<div class="col-lg-6 col-xs-6">
 			<!-- small box -->
-			<div class="small-box bg-green">
+			<div class="small-box bg-yellow">
 				<div class="inner">
 					<h2>
 						<b>

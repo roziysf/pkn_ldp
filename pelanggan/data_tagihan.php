@@ -51,7 +51,7 @@
 								<?php if($stt == 'BL'){ ?>
 								<span class="label label-danger">Belum Bayar</span>
 								<?php }elseif($stt == 'LS'){ ?>
-								<span class="label label-info">Lunas</span>
+								<span class= "label label-info">Lunas</span>
 							</td>
 							<?php } ?>
 

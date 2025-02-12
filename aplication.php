@@ -113,7 +113,7 @@
 					<!-- Level  -->
 
 					<li class="treeview">
-						<a href="?page=_plg">
+						<a href="?page=_plg"style= "color:rgb(255, 255, 255);">
 							<i class="fa fa-dashboard"></i>
 							<span>Dashboard</span>
 							<span class="pull-right-container">
@@ -122,7 +122,7 @@
 					</li>
 
 					<li class="treeview">
-						<a href="?page=data-tagihan">
+						<a href="?page=data-tagihan"style= "color:rgb(255, 255, 255);">
 							<i class="fa fa-home"></i>
 							<span>Data Tagihan</span>
 							<span class="pull-right-container">
@@ -133,7 +133,7 @@
 					<li class="header">OTHER</li>
 
 					<li>
-						<a href="logout.php" onclick="return confirm('Anda yakin keluar dari aplikasi ?')">
+						<a href="logout.php"style= "color:rgb(255, 255, 255);" onclick="return confirm('Anda yakin keluar dari aplikasi ?')">
 							<i class="fa fa-sign-out"></i>
 							<span>Logout</span>
 							<span class="pull-right-container"></span>

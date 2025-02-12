@@ -59,7 +59,7 @@ if (strlen($tambah) == 1) {
 
 						<!-- /.box-body -->
 						<div class="box-footer">
-							<a href="?page=data-paket" class="btn btn-default">Batal</a>
+							<a href="?page=data-paket" class="btn btn-default"style= "background:rgb(211, 226, 4);">Batal</a>
 							<input type="submit" name="Simpan" value="Simpan" class="btn btn-primary">
 						</div>
 				</form>

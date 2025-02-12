@@ -51,8 +51,8 @@
 
 						<!-- /.box-body -->
 						<div class="box-footer">
-							<a href="?page=data-Paket" class="btn btn-default">Batal</a>
-							<input type="submit" name="Ubah" value="Simpan" class="btn btn-success">
+							<a href="?page=data-Paket" class="btn btn-default"style= "background:rgb(211, 226, 4);">Batal</a>
+							<input type="submit" name="Ubah" value="Simpan" class="btn btn-primary">
 						</div>
 				</form>
 				</div>
